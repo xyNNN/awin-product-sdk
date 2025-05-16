@@ -18,6 +18,6 @@
         "ext-zlib": "*",
         "ext-mbstring": "*",
         "guzzlehttp/guzzle": "^7.0",
-        "symfony/cache": "^4.1"
+        "symfony/cache": "^7.0"
     }
 }
